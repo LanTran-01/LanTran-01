@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LanTran-01
-- 👀 I’m interested in watching anime.
+- 👀 I’m interested in so many things and committed to nothing.
 - 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

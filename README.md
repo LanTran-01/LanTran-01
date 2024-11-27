@@ -1,5 +1,5 @@
-<ins>Hello,</ins>
-<ins>Hi</ins>
+Hello,<br>
+Hi
 
 <!---
 LanTran-01/LanTran-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

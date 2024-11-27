@@ -1,4 +1,4 @@
-<ins>Hello,<ins/>
+<ins>Hello,</ins>
 <ins></ins>
 <ins>My name is Lan Tran, an electrical engineering-in-training.</ins>
 <ins>My interest is mainly with embedded system and electronics</ins>
